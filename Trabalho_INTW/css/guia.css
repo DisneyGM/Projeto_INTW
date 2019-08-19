@@ -1,0 +1,42 @@
+body{
+	
+	background-color: #696969;
+	margin: 0 auto;
+}
+header {
+ 	background-color: black;
+ 	text-align: center;
+}
+#texto_topo {
+	margin-left: 10%;
+	margin-right: 10%;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+IMG.imagem_header {
+	max-width: 200px;
+}
+
+.texto{
+	margin-left: 10%;
+	margin-right: 10%;
+	font-weight: bold;
+}
+
+.tier{
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 500px;
+}
+#creep{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+footer{
+	background-color: black; 
+	margin-bottom: -20px;
+}
+.foot{
+	color: white;
+}
